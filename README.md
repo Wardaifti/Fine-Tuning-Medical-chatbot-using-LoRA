@@ -47,3 +47,6 @@ If you’re interested in collaborating or have any questions, feel free to conn
 https://www.linkedin.com/in/warda-iftikhar-791310258/
 
 📧 wardahiftikhar18@gmail.com
+
+# ⭐ Final Note
+This project is a demonstration of how domain-specific language models can be fine-tuned efficiently using LoRA, even on limited hardware. Whether you're a beginner or an NLP enthusiast, this repository provides a solid foundation for building real-world medical AI applications.
